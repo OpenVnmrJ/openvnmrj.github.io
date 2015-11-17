@@ -3,20 +3,17 @@
 - title: About
   url: /about/
   excerpt: "About OpenVnmrJ."
-  image: 400x250.gif
 
 - title: Background
   url: /Background/
-  image: 400x250.gif
+  excerpt: "The History of OpenVnmrJ."
 
 - title: Contributing
   url: /Contributing/
-  image: 400x250.gif
+  excerpt: "How to Contribute."
 
 - title: Latest News
   url: /news/
-  image: 400x250.gif
 
 - title: OpenVnmrJ on GitHub
   url: http://github.com/OpenVnmrJ
-  image: 400x250.gif
