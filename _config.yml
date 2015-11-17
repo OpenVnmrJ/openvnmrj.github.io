@@ -21,7 +21,7 @@ gems:
 collections:
   documentation:
     output: true
-    permalink: /documentation/:path/
+    permalink: /:path/
 
 
 # Site owner
