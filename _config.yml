@@ -1,0 +1,42 @@
+# Site wide configuration
+
+title: OpenVnmrJ
+description: "Open source software for nuclear magnetic resonance (NMR) spectroscopy"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: //ekpaulson.github.io
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+collections:
+  documentation:
+    output: true
+    permalink: /documentation/:path/
+
+
+# Site owner
+owner:
+  name: OpenVnmrJ
+  web: http://openvnmrj.org
+  email: eric.paulson@yale.edu
+  twitter: 
+  bio: "Open Source NMR Software"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: 
+    ad-client: 
+    ad-slot: 
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
