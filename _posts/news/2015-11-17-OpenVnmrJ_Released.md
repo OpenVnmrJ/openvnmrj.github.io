@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "OpenVnmrJ Released!"
-categories: articles
+categories: news
 modified: 2015-11-17
 ---
 
