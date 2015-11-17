@@ -14,17 +14,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Download the Latest Release</h2>
-  <p class="post-excerpt">Download and install the latest release of OpenVnmrJ</p>
+  <p class="post-excerpt"><a href="http://openvnmrj.org/Download">Download</a> and install the latest release of OpenVnmrJ</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Contribute</h2>
+  <p class="post-excerpt">Learn how to <a href="http://openvnmrj.org/Contributing">contribute</a> documentation, pulse sequences, macros, or other code to OpenVnmrJ.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Support</h2>
+<p class="post-excerpt"><a href="http://spinsights.chem.agilent.com">Connect</a> with the <a href="https://spinsights.chem.agilent.com">Spinsights</a> community to ask questions and get help with VnmrJ and OpenVnmrJ.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
