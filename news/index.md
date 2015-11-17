@@ -3,7 +3,7 @@ layout: archive
 title: "News"
 date: 2015-11-17
 modified:
-excerpt: "Recent updates about OpenVnmrJ"
+excerpt: "Recent updates for OpenVnmrJ"
 tags: []
 image:
   feature:
