@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: OpenVnmrJ
-description: "Open source software for nuclear magnetic resonance (NMR) spectroscopy"
+description: "Open source software for nuclear magnetic resonance (NMR) spectroscopy and magnetic resonance imaging (MRI)"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
