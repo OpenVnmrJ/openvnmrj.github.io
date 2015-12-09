@@ -38,7 +38,7 @@ If you only want to download and run OpenVnmrJ, you should get a pre-built archi
 See the [Contributing](/Contributing/) to get started.
 
 ## Owner ##
-The Board of Trustees of the University of Oregon ("University of Oregon") legally owns the project assets. 
+The University of Oregon ("UO") legally owns the project assets. 
 
 ##License##
 Most of the code and documentation are licnesed under the Apache 2.0 license, but some parts are licensed under the GLPv3 license.
