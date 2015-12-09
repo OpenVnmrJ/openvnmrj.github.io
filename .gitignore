@@ -1,0 +1,5 @@
+# Github jekyll.gitignore template
+# TEB 20151208
+_site/
+.sass-cache/
+.jekyll-metadata
