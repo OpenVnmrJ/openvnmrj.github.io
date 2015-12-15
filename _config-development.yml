@@ -7,7 +7,7 @@ logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
 #url: //openvnmrj.github.io
-server_port: 4000
+port: 4000
 base-url:    /
 
 # Jekyll configuration
