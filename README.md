@@ -21,21 +21,24 @@ If you only want to download and run OpenVnmrJ, you should get a pre-built archi
 
 ## Spectrometer users, read this ##
 
-
 ** Do not delete the Agilent supplied VnmrJ on your spectrometer **
+
 * Agilent service requires VnmrJ 4.2
 * The spectrometer console software is NOT open sourced
 
-
 ##Contributing##
+
 See the file [Contributing.md](Contributing.md) to get started.
 
 ## Owner ##
+
 The University of Oregon ("University of Oregon" or "UO") legally owns the project copyright and other assets. 
 
 ##License##
+
 Most of the code and documentation are licnesed under the Apache 2.0 license, but some subcomponents use other licenses.
 See the [License.md](License.md) file for more information.
 
 ##Disclaimer##
+
 To the fullest extent allowed by law, the work is provided "as-is" with no warrantees whatsoever, either expressed or implied, oral or written. Agilent and UO specifically disclaim any warrantees of merchantability or fitness for a particular purpose. This work is not a manufacturer's release version and its use may limit your support options from the original manufacturer of your equipment.
