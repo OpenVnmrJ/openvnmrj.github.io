@@ -3,6 +3,11 @@ layout: article
 title:  "OpenVnmrJ Released!"
 categories: news
 modified: 2015-11-17
+published: false
+image:
+  feature:
+  teaser: 400x250.gif
+  thumb:
 ---
 
 #Agilent entrusts open-source software to University of Oregon#
