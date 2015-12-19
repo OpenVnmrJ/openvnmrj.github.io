@@ -15,6 +15,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
+  input: GFM
 highlighter: pygments
 gems:
   - jekyll-sitemap
