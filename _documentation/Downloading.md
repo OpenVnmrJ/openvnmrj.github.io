@@ -31,7 +31,7 @@ OVJ runs as for processing only on OS X.
 
 TODO!
 
-##Disclaimer##
+## Disclaimer
 
 ** Do not delete the Agilent supplied VnmrJ on your spectrometer **
 
