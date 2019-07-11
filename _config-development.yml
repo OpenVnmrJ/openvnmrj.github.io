@@ -21,7 +21,7 @@ kramdown:
   toc_levels: 1..2
   input: GFM
 highlighter: pygments
-gems:
+plugins:
   - jekyll-sitemap
 collections:
   documentation:

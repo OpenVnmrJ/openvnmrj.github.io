@@ -5,9 +5,17 @@ description: "Open source software for nuclear magnetic resonance (NMR) spectros
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //openvnmrj.github.io
+#url: //openvnmrj.github.io
+
+# for development, comment out url:, and uncomment these:
+port: 4000
+base-url:    //
 
 # Jekyll configuration
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 sass:
   sass_dir: _sass
@@ -17,7 +25,7 @@ kramdown:
   toc_levels: 1..2
   input: GFM
 highlighter: pygments
-gems:
+plugins:
   - jekyll-sitemap
 collections:
   documentation:
@@ -40,4 +48,7 @@ owner:
   disqus-shortname:
 
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config",
+"log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project",
+"*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md",
+"LICENSE", "node_modules", "Gruntfile.js", "package.json"]
