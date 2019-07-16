@@ -43,3 +43,4 @@ VOSSG members who are available to contact:
 -   David Rice daverice@stanford.edu
 -   John Ryan john_ryan@agilent.com
 -   Michael Strain mstrain@uoregon.edu
+

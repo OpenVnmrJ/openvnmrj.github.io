@@ -3,7 +3,7 @@ layout: article
 title: "About"
 excerpt: "This is the OpenVnmrJ about page."
 image:
-  feature: Splash_OpenVnmrJ_v1.png
+  feature: OpenVnmrJ_Header.png
 ---
 {% include toc.html %}
 
@@ -16,7 +16,7 @@ open-source developers and users who develop, use, document, and
 promote OpenVnmrJ, NMR spectrometers and data stations running
 OpenVnmrJ, and other related activities for our mutual benefit.
 
-See OpenVnmrJ [Background](/Background/) for more information
+See OpenVnmrJ [Background](/Background) for more information
 
 ## OpenVnmrJ ##
 
@@ -43,7 +43,7 @@ fix and contribute back to the community.
 
 If you only want to download and run OpenVnmrJ, you should get a
 pre-built archive and install a local copy. See
-[Downloading](/Downloading/) for more information.
+[Downloading](/Downloading) for more information.
 
 ## Spectrometer users, read this ##
 
@@ -53,7 +53,7 @@ pre-built archive and install a local copy. See
 
 
 ## Contributing ##
-See the [Contributing](/Contributing/) to get started.
+See the [Contributing](/Contributing) to get started.
 
 ## Owner ##
 The University of Oregon ("UO") legally owns the project assets. 
@@ -63,7 +63,7 @@ The University of Oregon ("UO") legally owns the project assets.
 Most of the code and documentation are licnesed under the Apache 2.0
 license, but some parts are licensed under the GLPv3 license.
 
-See the [License](/License/) file for more information.
+See the [License](/LICENSE) file for more information.
 
 ## Disclaimer ##
 

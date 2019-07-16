@@ -16,28 +16,42 @@ image:
 
 ## How to contribute this website
 
-We welcome anyone to contribute to this website. The easiest way is to simply file an issue in the [issue tracker](https://github.com/OpenVnmrJ/openvnmrj.github.io/issues).
+We welcome anyone to contribute to this website. The easiest way is to
+simply file an issue in the [issue
+tracker](https://github.com/OpenVnmrJ/openvnmrj.github.io/issues).
 
-If you are want to fork this website and issue a pull request, you may do so too. Again, first file an issue describing the bug or feature or article you want to add. Also mention you'll be working on it, so we won't duplicate your work.
+If you are want to fork this website and issue a pull request, you may
+do so too. Again, first file an issue describing the bug or feature or
+article you want to add. Also mention you'll be working on it, so we
+won't duplicate your work.
 
-You'll need to sign a Contributor License Agreement too. When you make a pull request the CLA assistant will prompt you.
+You'll need to sign a Contributor License Agreement too. When you make
+a pull request the CLA assistant will prompt you.
 
 ## Submitting an update
 
-1. Start by forking this repository [openvnmrj.github.io](https://github.com/OpenVnmrJ/openvnmrj.github.io) on GitHub. 
-2. Make a new branch; please keep your changes small and atomic in your branch. It's easier for us to merge your pull-request later.
-3. Check that your chnages render OK offline. You'lll need to set up a Jekyll install with ruby, see below on how to do this.
-4. Do you best to have a [well-formed commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for each change.
+1. Start by forking this repository
+   [openvnmrj.github.io](https://github.com/OpenVnmrJ/openvnmrj.github.io)
+   on GitHub.
+2. Make a new branch; please keep your changes small and atomic in
+   your branch. It's easier for us to merge your pull-request later.
+3. Check that your chnages render OK offline. You'lll need to set up a
+   Jekyll install with ruby, see below on how to do this.
+4. Do you best to have a [well-formed commit
+   message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+   for each change.
 5. Push your changes to your repository and submit a pull-request.
 
 ## Setting up a local Jekyll environment on Linux (Ubuntu Trusty Tahr)
 
-This walkthrough is for Ubuntu 14.04 Trusty Tahr. For CentOS or RHEL, use `yum install` in place of `apt-get install` 
-See at the end for tips for OS X.
+This walkthrough is for Ubuntu 14.04 Trusty Tahr. For CentOS or RHEL,
+use `yum install` in place of `apt-get install` See at the end for
+tips for OS X.
 
 ### Git
 
-First , install git and a few extra libraries. Ubuntu Trusty has an old version of git and I like to replace it
+First , install git and a few extra libraries. Ubuntu Trusty has an
+old version of git and I like to replace it
 
 ```bash
 sudo add-apt-repository ppa:git-core/ppa
@@ -47,7 +61,10 @@ sudo apt-get install -y git libssl-dev libreadline-dev zlib1g-dev nodejs
 
 ### Ruby and Bundler
 
-Next, install RBEnv, bundler and ruby 2.2.3; see [https://github.com/rbenv/rbenv](https://github.com/rbenv/rbenv). This makes sure you are using the correct gems and ruby version. For example, GitHub uses Jekyll 2.4.0, not the latest version.  
+Next, install RBEnv, bundler and ruby 2.2.3; see
+[https://github.com/rbenv/rbenv](https://github.com/rbenv/rbenv). This
+makes sure you are using the correct gems and ruby version. For
+example, GitHub uses Jekyll 2.4.0, not the latest version.
 
 ```bash
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
@@ -63,7 +80,10 @@ gem install bundler
 ```
 
 ###  Github
-Add a SSH key to your github account; make a negit push --set-upstream origin article-how-to-update-websitew key using keygen if you don't have a public key.
+
+Add a SSH key to your github account; make a negit push --set-upstream
+origin article-how-to-update-websitew key using keygen if you don't
+have a public key.
 
 ```bash
 ssh-keygen
