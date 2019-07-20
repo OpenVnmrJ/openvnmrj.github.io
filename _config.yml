@@ -5,11 +5,11 @@ description: "Open source software for nuclear magnetic resonance (NMR) spectros
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-#url: //openvnmrj.github.io
+url: //openvnmrj.github.io
 
-# for development, comment out url:, and uncomment these:
-port: 4000
-base-url:    //
+# for development, comment out the "url:" line above, and uncomment these:
+#port: 4000
+#base-url:    //
 
 # Jekyll configuration
 #markdown: CommonMarkGhPages
