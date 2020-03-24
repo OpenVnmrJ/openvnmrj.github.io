@@ -202,7 +202,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.10.3)
+    nokogiri (1.10.8)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
