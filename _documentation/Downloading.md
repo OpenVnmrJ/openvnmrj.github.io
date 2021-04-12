@@ -19,17 +19,13 @@ OVJ is compatible with these Varian/Agilent consoles:
  * 400-MR_DD2
  * ProPulse
 
-## Operating Systems ##
+## Getting pre-built OpenVnmrJ releases ##
 
-OVJ is tested and runs on these Linux systems:
- * CentOS 6
- * Ubuntu 14.04 (Trusty Tahr)
- 
-OVJ runs as for processing only on OS X.
+The OVJ releases can be obtained from the OpenVnmrJ github site [Releases](https://github.com/OpenVnmrJ/OpenVnmrJ/releases)
 
-## Getting the release ##
+## Building OpenVnmrJ ##
 
-TODO!
+You can build OVJ by following the instructions in [ovjTools](https://github.com/OpenVnmrJ/ovjTools)
 
 ## Disclaimer
 
