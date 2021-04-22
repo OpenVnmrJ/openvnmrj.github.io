@@ -7,7 +7,7 @@ excerpt: "How to download and install OpenVnmrJ"
 If you only want to test OpenVnmrJ (OVJ) without building from source code, please read this document and then go to the download releases page. Read the disclaimer below.
 
 
-## <a href="https://github.com/OpenVnmrJ/OpenVnmrJ/releases" class="btn-inverse">Go to download releases page</a> ##
+## <a href="https://github.com/OpenVnmrJ/OpenVnmrJ/releases" class="btn">Go to download releases page</a> ##
 
 
 Contributors that point out bugs, give suggestions, or help us prioritize issues are very welcome. You can use this software on a datastaion to process NMR spectra or on a spectrometer computer. 
