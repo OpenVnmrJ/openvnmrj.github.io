@@ -20,10 +20,7 @@ See OpenVnmrJ [Background](/Background) for more information
 
 ## OpenVnmrJ ##
 
-OpenVnmrJ is the Open Source parts of VnmrJ 4.2, used for NMR Data
-processing and acquisition. The software runs on Linux: Centos 6 and
-Ubuntu 14.02, Trusty Tahr are the currently targetted hosts. As a
-datastation, the software runs on OS X 10.09 to 10.11.
+OpenVnmrJ is the open-sourced parts of VnmrJ 4.2, used for NMR Data processing and acquisition. For release information and supported operating systems, see the [GitHub OpenVnmrJ](https://github.com/OpenVnmrJ/OpenVnmrJ) repository.
 
 OpenVnmrJ is designed to be very extensible with:
 
