@@ -8,7 +8,7 @@ See [OpenVnmrJ](http://openvnmrj.org) for more information.
 
 ### OpenVnmrJ
 
-OpenVnmrJ is the outsourced parts of VnmrJ 4.2, used for NMR Data processing and acquisition. For release information and supported operating systems, see the  [GitHub OpenVnmrJ](https://github.com/OpenVnmrJ/OpenVnmrJ) repository.
+OpenVnmrJ is the open-sourced parts of VnmrJ 4.2, used for NMR Data processing and acquisition. For release information and supported operating systems, see the  [GitHub OpenVnmrJ](https://github.com/OpenVnmrJ/OpenVnmrJ) repository.
 
 OpenVnmrJ is designed to be very extensible with:  
 - A rich set of macros, written in MAGICAL
